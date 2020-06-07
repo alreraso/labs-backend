@@ -25,6 +25,7 @@ public class AuthorizationServerConfiguration extends AuthorizationServerConfigu
     private static final int ACCESS_TOKEN_VALIDITY_SECONDS = 1600;
 
 
+
     private AuthenticationManager authenticationManager;
     private PasswordEncoder passwordEncoder;
 
